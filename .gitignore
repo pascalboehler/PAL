@@ -1,0 +1,4 @@
+# Exclude system files:
+.DS_STORE
+
+.vscode
